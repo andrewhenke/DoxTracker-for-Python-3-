@@ -1,6 +1,6 @@
 # DoxTracker 1.0
 ![](https://img.shields.io/badge/DoxTracker-Python-blue.svg)
-
+![Supported Python versions](https://img.shields.io/badge/python-3.8-blue.svg)
 ![DoxTracker.jpg](https://github.com/KURO-CODE/DoxTracker/blob/master/DoxTracker.jpg)
 
 
